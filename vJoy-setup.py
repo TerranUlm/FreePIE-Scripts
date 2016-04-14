@@ -1,4 +1,3 @@
-import BaseHTTPServer
 import time
 
 # Usage guide:
