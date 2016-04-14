@@ -4,7 +4,9 @@ Some sample FreePIE scripts like "vJoy setup" to setup any game for use with a v
 
 ----------------------------
 
-<h2>vJoy-setup.py</h2>
+## vJoy-setup.py
+
+Configure any game to use your vJoy device instead of the real joystick device.
 
 Usage guide:
 
@@ -23,4 +25,6 @@ Usage guide:
 11. stop your script, reconfigure it to use the regular vJoy
 12. start your script
 
-it might be necessary to run FreePIE as administrator
+It might be necessary to run FreePIE as administrator.
+
+It's also not foolproof, as both vJoy devices have the same name...
