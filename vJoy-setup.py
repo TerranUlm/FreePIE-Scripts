@@ -2,7 +2,7 @@ import time
 
 # Usage guide:
 # 1) you need TWO vJoy devices - one to be set up and a temporary one to read the configured vJoy events
-# 2) modify your script to send the vJoy events to the temporary one instead of the regular vJoy
+# 2) modify your script to send the vJoy events to the temporary one instead of the regular vJoy device
 # 3) start your script
 # 4) start another instance of FreePIE and load+run this script
 # 5) to start recording press Ctrl+Alt+S
@@ -17,6 +17,8 @@ import time
 # 12) start your script
 #
 # it might be necessary to run FreePIE as administrator
+#
+# It's also not foolproof, as both vJoy devices have the same name...
 
 
 
